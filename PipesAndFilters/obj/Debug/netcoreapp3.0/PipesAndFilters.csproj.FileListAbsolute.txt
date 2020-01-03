@@ -1,0 +1,11 @@
+Z:\Katas\PipesAndFilters\PipesAndFilters\bin\Debug\netcoreapp3.0\PipesAndFilters.exe
+Z:\Katas\PipesAndFilters\PipesAndFilters\bin\Debug\netcoreapp3.0\PipesAndFilters.deps.json
+Z:\Katas\PipesAndFilters\PipesAndFilters\bin\Debug\netcoreapp3.0\PipesAndFilters.runtimeconfig.json
+Z:\Katas\PipesAndFilters\PipesAndFilters\bin\Debug\netcoreapp3.0\PipesAndFilters.runtimeconfig.dev.json
+Z:\Katas\PipesAndFilters\PipesAndFilters\bin\Debug\netcoreapp3.0\PipesAndFilters.dll
+Z:\Katas\PipesAndFilters\PipesAndFilters\bin\Debug\netcoreapp3.0\PipesAndFilters.pdb
+Z:\Katas\PipesAndFilters\PipesAndFilters\obj\Debug\netcoreapp3.0\PipesAndFilters.csprojAssemblyReference.cache
+Z:\Katas\PipesAndFilters\PipesAndFilters\obj\Debug\netcoreapp3.0\PipesAndFilters.AssemblyInfoInputs.cache
+Z:\Katas\PipesAndFilters\PipesAndFilters\obj\Debug\netcoreapp3.0\PipesAndFilters.AssemblyInfo.cs
+Z:\Katas\PipesAndFilters\PipesAndFilters\obj\Debug\netcoreapp3.0\PipesAndFilters.dll
+Z:\Katas\PipesAndFilters\PipesAndFilters\obj\Debug\netcoreapp3.0\PipesAndFilters.pdb
